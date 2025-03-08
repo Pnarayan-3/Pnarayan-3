@@ -1,6 +1,6 @@
 # 💻 Hi, I'm [Pushkar N]! 🚀
 
-<img src="https://github.com/your-username/your-repo/blob/main/banner.png" alt="Banner Image" width="100%">
+
 
 ## 👨‍🎓 About Me  
 🎓 **3rd Year Engineering Student** | 💡 Passionate about **Software Development, IoT, Data Analytics, Cloud Services, and Network Engineering**  
