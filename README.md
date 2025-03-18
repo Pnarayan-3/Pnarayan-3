@@ -50,11 +50,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pnarayan-3&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
   </a>
 
-  <a href="https://github.com/your-github-username">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pnarayan-3&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-  
-
 ## 📌 Top Languages Used  
 
   <a href="https://github.com/your-github-username">
