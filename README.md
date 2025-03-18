@@ -1,5 +1,4 @@
 #  Hi  Developers👋, I'm Pushkar Narayan
-<hr>
 
 
 
@@ -12,8 +11,6 @@
 - **IoT Projects (Arduino, Raspberry Pi)** 🔌  
 - **Cloud Computing & Services** ☁  
 - **Network Engineering & Security** 🌐  
-
----
 
 ## 🔧 Tech Stack  
 ### **Languages & Tools**  
