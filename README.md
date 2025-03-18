@@ -46,26 +46,24 @@
 
 ## 📊 GitHub Statistics  
 
-<div align="center">
+<div align="left">
 
   <a href="https://github.com/your-github-username">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pnarayan-3&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
   </a>
 
   <a href="https://github.com/your-github-username">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pnarayan-3&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 
 </div>
 
----
-
 ## 📌 Top Languages Used  
 
-<div align="center">
+<div align="right">
 
   <a href="https://github.com/your-github-username">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pnarayan-3&layout=compact&langs_count=10&theme=radical&hide_border=true" alt="Most Used Languages" />
   </a>
 
 </div>
@@ -77,7 +75,7 @@
 <div align="center">
 
   <a href="https://github.com/your-github-username">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pnarayan-3&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
   </a>
 
 </div>
