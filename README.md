@@ -3,7 +3,7 @@
 
 
 ## 👨‍🎓 About Me  
-🎓 **3rd Year Engineering Student** | 💡 Passionate about **Software Development, IoT, Data Analytics, Cloud Services, and Network Engineering**  
+🎓 **Final Year Engineering Student** | 💡 Passionate about **Software Development, IoT, Data Analytics, Cloud Services, and Network Engineering**  
 
 🚀 I love working on:  
 - **Software Development** 💻  
