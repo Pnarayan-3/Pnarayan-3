@@ -91,7 +91,8 @@
 ---
 
 ## 👨‍🎓 About Me  
-🎓 **Final Year CSIT Student** 
+🎓 **Final Year CSIT Student**
+
 💡 Skilled in **Software Development, IoT, Data Analytics, Cloud Services, Network Engineering, and DevOps**  
 🔥 Always exploring **new tech stacks & tools** to expand my capabilities  
 🌱 Currently learning **Kubernetes, Cloud-Native Architecture, and Scalable System Design**  
