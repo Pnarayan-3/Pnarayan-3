@@ -87,14 +87,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Passionate+about+IoT%2C+Cloud%2C+DevOps+%26+Software+Development;Always+Learning+and+Innovating;Turning+Ideas+into+Reality" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pnarayan-3&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
 ## 👨‍🎓 About Me  
-🎓 **Final Year CSIT Student** at ITER SOA University  
+🎓 **Final Year CSIT Student** 
 💡 Skilled in **Software Development, IoT, Data Analytics, Cloud Services, Network Engineering, and DevOps**  
 🔥 Always exploring **new tech stacks & tools** to expand my capabilities  
 🌱 Currently learning **Kubernetes, Cloud-Native Architecture, and Scalable System Design**  
