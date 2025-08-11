@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Passionate+about+IoT%2C+Cloud%2C+DevOps+%26+Software+Development;Always+Learning+and+Innovating;Turning+Ideas+into+Reality" />
 </p>
 
-
 ---
 
 ## 👨‍🎓 About Me  
