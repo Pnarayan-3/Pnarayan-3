@@ -12,6 +12,7 @@
 ---
 
 ## 👨‍🎓 About Me  
+
 🎓 **Final Year CSIT Student**
 
 💡 Skilled in **Software Development, IoT, Data Analytics, Cloud Services, Network Engineering, and DevOps**  
@@ -24,12 +25,14 @@
 ## 💻 Tech Stack  
 
 **Languages:**  
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 **Web & Frameworks:**  
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -40,11 +43,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 
 **Databases & Analytics:**  
+
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 **🛠 DevOps & Cloud:**  
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LVM](https://img.shields.io/badge/Linux%20Volume%20Management-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -56,6 +61,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
 
 **Hardware & IoT:**  
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
 
@@ -67,6 +73,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pnarayan-3&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pnarayan-3&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+<p align="center">
+<a href="https://github.com/Pnarayan-3">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pnarayan-3"/>
+  
+</a>
 </p>
 
 ---
