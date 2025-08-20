@@ -9,7 +9,6 @@
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=Pnarayan-3&color=blueviolet&style=flat">
 </p>
----
 
 ## 👨‍🎓 About Me  
 
