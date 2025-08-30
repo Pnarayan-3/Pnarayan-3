@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hey there 👋, I'm <span style="color:#ff6f61;">Pushkar Narayan</span></h1>
-<h3 align="center">🚀 Final Year Student | 💻 Software Developer | 📊 Data Analyst | ☁ Cloud & DevOps Enthusiast</h3>
+<h3 align="center">🚀 Final Year Student | ☁ Cloud & DevOps Enthusiast | 📊 Data Analyst | 💻 Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Passionate+about+IoT%2C+Cloud%2C+DevOps+%26+Software+Development;Always+Learning+and+Innovating;Turning+Ideas+into+Reality" />
