@@ -230,7 +230,7 @@
 
 ### 🧩 Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,javascript" />
 </p>
 
 ---
@@ -244,7 +244,7 @@
 
 ### 🗄️ Databases & Analytics  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,powerbi,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,excel,powerbi,sqlite" />
 </p>
 
 ---
