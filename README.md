@@ -85,7 +85,9 @@
 
 ## 🚀 Contribution Graph  
 -->
+
 <!-- HEADER -->
+<!--
 <h1 align="center">Hey there 👋, I'm <span style="color:#ff6f61;">Pushkar Narayan</span></h1>
 <h3 align="center">☁ Cloud & DevOps Enthusiast | 💻 Software Developer | 📊 Data Analyst | 🔧 Tech Explorer</h3>
 
@@ -199,3 +201,94 @@
 <p align="center">
   <b>✨ Let's collaborate and build something amazing! ✨</b>
 </p>
+-->
+<!-- HEADER -->
+<h1 align="center">Hey there 👋, I'm <span style="color:#00C6FF;">Pushkar Narayan</span></h1>
+<h3 align="center">☁ Cloud & DevOps Enthusiast | 💻 Software Developer | 📊 Data Analyst | 🔧 Innovator</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&color=00C6FF&lines=Building+Cloud-Native+%26+Scalable+Systems;Automating+Infrastructure+with+Terraform+%26+Docker;Always+Learning%2C+Always+Innovating" />
+</p>
+
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=Pnarayan-3&color=0CCAF0&style=plastic&label=Profile+Views">
+</p>
+
+---
+
+## 👨‍💻 About Me  
+
+🎓 **Final Year CSIT Student @ ITER, SOA University**  
+💡 Skilled in **Cloud, DevOps, IoT, Data Analytics, and Full Stack Development**  
+🌱 Currently exploring **Kubernetes, Helm, ArgoCD & Advanced CI/CD**  
+⚡ Passionate about **Automation, Scalability & Efficient System Design**  
+🚀 “Learning is continuous — building is growth.”  
+
+---
+
+## 🧠 Tech Stack  
+
+### 🧩 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript" />
+</p>
+
+---
+
+### 🌐 Web & Frameworks  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,php,nodejs,express" />
+</p>
+
+---
+
+### 🗄️ Databases & Analytics  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,powerbi,sqlite" />
+</p>
+
+---
+
+### ☁️ DevOps, Cloud & CI/CD  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,aws,terraform,docker,kubernetes,helm,jenkins,ansible,git,github,gitlab" />
+  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="48" title="ArgoCD" />
+</p>
+
+---
+
+### ⚙️ Hardware & IoT  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  <img src="https://img.shields.io/badge/IoT-00BFFF?style=flat&logo=cloudsmith&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pnarayan-3&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pnarayan-3&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pnarayan-3&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pnarayan-3&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Let’s Collaborate and Build Something Extraordinary! ✨</b><br><br>
+  <a href="mailto:pushkarnarayan@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://www.linkedin.com/in/pushkarnarayan/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://github.com/Pnarayan-3"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+</p>
+
