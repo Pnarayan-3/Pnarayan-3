@@ -139,7 +139,7 @@
   <img src="https://skillicons.dev/icons?i=linux,aws,terraform,docker,kubernetes,helm,jenkins,ansible,git,github,gitlab" />
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="48" title="ArgoCD" />
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" title="Prometheus" />
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/grafana/icon/color/grafana-icon-color.svg" width="48" title="Grafana" />
+  <img src="https://www.svgrepo.com/show/448228/grafana.svg" width="48" title="Grafana" />
 </p>
 
 ---
