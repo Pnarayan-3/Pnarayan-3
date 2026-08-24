@@ -170,21 +170,6 @@
 
 ---
 
-## 💼 Internship Experience
-
-### Product Development Intern — Dayforce
-
-**Feb 2026 – Jul 2026 | Bengaluru, India**
-
-* Developed and enhanced **10+ reusable HCM components** used across multiple application screens.
-* Implemented **150+ unit tests** and **80+ SpecFlow automation test cases**.
-* Contributed to an **AI-powered development agent** using AI-DLC practices, identifying approximately **80% of AIDA bot review comments** before PR submission.
-* Contributed to **15+ sprint stories** within Agile development cycles.
-* Participated in code reviews, debugging, technical documentation, and cross-functional collaboration.
-* Worked with QA, developers, and product teams using **Jira and Confluence**.
-
----
-
 ## 🧠 Areas of Interest
 
 ```text
