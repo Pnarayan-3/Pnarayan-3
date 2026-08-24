@@ -1,158 +1,207 @@
 <!-- HEADER -->
-<!--
-<h1 align="center">Hey there 👋, I'm <span style="color:#ff6f61;">Pushkar Narayan</span></h1>
-<h3 align="center">🚀 Final Year Student | ☁ Cloud & DevOps Enthusiast | 📊 Data Analyst | 💻 Software Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Passionate+about+IoT%2C+Cloud%2C+DevOps+%26+Software+Development;Always+Learning+and+Innovating;Turning+Ideas+into+Reality" />
-</p>
-
-<p align="center">
-   <img src="https://komarev.com/ghpvc/?username=Pnarayan-3&color=blueviolet&style=flat">
-</p>
-
-## 👨‍🎓 About Me  
-
-🎓 **Final Year CSIT Student**
-
-💡 Skilled in **Software Development, IoT, Data Analytics, Cloud Services, Network Engineering, and DevOps**  
-🔥 Always exploring **new tech stacks & tools** to expand my capabilities  
-🌱 Currently learning **Kubernetes, Cloud-Native Architecture, and Scalable System Design**  
-
----
-
-## 💻 Tech Stack  
-
-**Languages:**  
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
-**Web & Frameworks:**  
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-
-**Databases & Analytics:**  
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-
-**🛠 DevOps & Cloud:**  
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![LVM](https://img.shields.io/badge/Linux%20Volume%20Management-000000?style=for-the-badge&logo=linux&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
-
-**Hardware & IoT:**  
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
-
-
----
-
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pnarayan-3&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pnarayan-3&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
-
-<p align="center">
-<a href="https://github.com/Pnarayan-3">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pnarayan-3"/>
-  
-</a>
-</p>
-
----
-
-## 🚀 Contribution Graph  
--->
-
-
-<!-- HEADER -->
 <h1 align="center">Hey there 👋, I'm <span style="color:#00C6FF;">Pushkar Narayan</span></h1>
-<h3 align="center">☁ Cloud & DevOps Enthusiast | 💻 Software Developer | 📊 Data Analyst | 🔧 Innovator</h3>
+
+<h3 align="center">
+💻 Software Developer | ☁️ Cloud & DevOps | 🧪 Software Testing & Automation | 📊 Data & Analytics
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&color=00C6FF&lines=Building+Cloud-Native+%26+Scalable+Systems;Automating+Infrastructure+with+Terraform+%26+Docker;Always+Learning%2C+Always+Innovating" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=750&color=00C6FF&lines=Building+Scalable+%26+Reliable+Software;Cloud+%7C+DevOps+%7C+Kubernetes+%7C+Automation;Java+%7C+.NET+%7C+Spring+Boot+%7C+AWS;Always+Learning%2C+Building+%26+Improving" />
 </p>
 
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=Pnarayan-3&color=0CCAF0&style=plastic&label=Profile+Views">
+  <img src="https://komarev.com/ghpvc/?username=Pnarayan-3&color=0CCAF0&style=plastic&label=Profile+Views">
 </p>
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-🎓 **Final Year CSIT Student @ ITER, SOA University**  
-💡 Skilled in **Cloud, DevOps, IoT, Data Analytics, and Full Stack Development**  
-🌱 Currently exploring **Kubernetes, Helm, ArgoCD & Advanced CI/CD**  
-⚡ Passionate about **Automation, Scalability & Efficient System Design**  
-🚀 “Learning is continuous — building is growth.”  
+🎓 **B.Tech Graduate in Computer Science & Information Technology** from **ITER, Siksha 'O' Anusandhan University**
+
+💼 **Product Development Intern at Dayforce** — worked on HCM components, unit testing, automation testing, Agile development, debugging, and code reviews.
+
+💻 Interested in **Software Development, Cloud Computing, DevOps, Automation, and Distributed Systems**
+
+☁️ Building hands-on projects with **AWS, Docker, Terraform, Kubernetes, Prometheus, and Grafana**
+
+🧪 Experienced with **Unit Testing, SpecFlow Automation, Functional Testing, Regression Testing, and Software Reliability**
+
+🚀 Currently strengthening my skills in **Cloud-Native Architecture, Kubernetes, Observability, Infrastructure as Code, and Scalable Systems**
 
 ---
 
-## 🧠 Tech Stack  
+## 🛠️ Tech Stack
 
-### 🧩 Languages  
+### 💻 Programming Languages
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,cpp,c,javascript" />
 </p>
 
 ---
 
-### 🌐 Web & Frameworks  
+### 🌐 Web & Application Development
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,php,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nodejs,express" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
 ---
 
-### 🗄️ Databases & Analytics  
+### 🗄️ Databases & Data Analytics
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
 ---
 
-### ☁️ DevOps, Cloud & CI/CD  
+### ☁️ Cloud, DevOps & Infrastructure
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,aws,terraform,docker,kubernetes,helm,jenkins,ansible,git,github,gitlab" />
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="48" title="ArgoCD" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,terraform,ansible,kubernetes,helm,git,github,gitlab" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Monitoring & Observability
+
+<p align="left">
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" title="Prometheus" />
   <img src="https://www.svgrepo.com/show/448228/grafana.svg" width="48" title="Grafana" />
 </p>
 
+**Monitoring:** Prometheus • Grafana • Metrics • Dashboards • Log Analysis • Incident Analysis • Root Cause Analysis
+
 ---
 
-### ⚙️ Hardware & IoT  
+### 🧪 Testing & Quality
+
+<p>
+  <img src="https://img.shields.io/badge/Unit%20Testing-6DB33F?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpecFlow-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Katalon-00AEEF?style=for-the-badge&logoColor=white"/>
+</p>
+
+**Testing:** Unit Testing • Functional Testing • Regression Testing • Test Automation • Test Coverage • Debugging • Code Reviews
+
+---
+
+### ⚙️ Hardware & IoT
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-  <img src="https://img.shields.io/badge/IoT-00BFFF?style=flat&logo=cloudsmith&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Insights  
+## 🚀 Featured Projects
+
+### ☸️ Kubernetes Monitoring Demo
+
+**Minikube • Docker • Kubernetes • Prometheus • Grafana**
+
+* Deployed a containerized application on Kubernetes using Deployments and Services.
+* Configured **Prometheus** for application and cluster monitoring.
+* Built **Grafana dashboards** for visualizing system and application metrics.
+* Practiced Kubernetes networking, service discovery, containerization, and observability.
+
+---
+
+### ☁️ Multi-Environment AWS VPC using Terraform
+
+**AWS • Terraform • Infrastructure as Code**
+
+* Designed separate **Development, Staging, and Production** VPC environments.
+* Used reusable Terraform modules to provision cloud infrastructure.
+* Applied Infrastructure-as-Code practices for consistent and repeatable deployments.
+
+---
+
+### 🐳 Seminar Attendance Web Application
+
+**AWS • EC2 • Docker • Terraform • Nginx • Node.js • MySQL • Bash**
+
+* Built and deployed a two-tier web application on AWS EC2.
+* Containerized application services using Docker.
+* Automated infrastructure provisioning using Terraform.
+* Configured Nginx as a reverse proxy for the Node.js backend.
+* Used Bash scripting to automate deployment and infrastructure tasks.
+
+---
+
+### 📊 Smart Healthcare Insights
+
+**Power BI • DAX • Data Analytics**
+
+* Developed an interactive healthcare analytics dashboard.
+* Created DAX measures for meaningful business and healthcare insights.
+* Designed visualizations to analyze trends and key performance indicators.
+
+---
+
+### 🏦 Banking Management System
+
+**Java • JDBC • Oracle Database**
+
+* Developed a Java-based banking management application.
+* Integrated Oracle Database using JDBC.
+* Implemented database-driven operations for managing banking workflows.
+
+---
+
+## 💼 Internship Experience
+
+### Product Development Intern — Dayforce
+
+**Feb 2026 – Jul 2026 | Bengaluru, India**
+
+* Developed and enhanced **10+ reusable HCM components** used across multiple application screens.
+* Implemented **150+ unit tests** and **80+ SpecFlow automation test cases**.
+* Contributed to an **AI-powered development agent** using AI-DLC practices, identifying approximately **80% of AIDA bot review comments** before PR submission.
+* Contributed to **15+ sprint stories** within Agile development cycles.
+* Participated in code reviews, debugging, technical documentation, and cross-functional collaboration.
+* Worked with QA, developers, and product teams using **Jira and Confluence**.
+
+---
+
+## 🧠 Areas of Interest
+
+```text
+Software Development
+        ↓
+Cloud Computing → AWS → Docker → Kubernetes
+        ↓
+DevOps → Terraform → Automation → CI/CD
+        ↓
+Observability → Prometheus → Grafana → Reliability
+        ↓
+Testing → Unit Testing → Automation → Quality
+```
+
+---
+
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pnarayan-3&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165">
@@ -160,22 +209,35 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pnarayan-3&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pnarayan-3&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Contribution Graph  
+## 🚀 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pnarayan-3&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
+## 🤝 Let's Connect
+
 <p align="center">
-  <b>✨ Let’s Collaborate and Build Something Extraordinary! ✨</b><br><br>
-  <a href="mailto:pushkarnarayan@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-  <a href="https://www.linkedin.com/in/pushkarnarayan/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="https://github.com/Pnarayan-3"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="mailto:pushkarnarayan@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pushkarnarayan/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Pnarayan-3">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
 </p>
 
+<p align="center">
+  <b>✨ Build. Automate. Learn. Improve. ✨</b>
+</p>
