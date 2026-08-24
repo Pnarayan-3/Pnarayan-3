@@ -37,7 +37,7 @@
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,javascript" />
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,javascript" />
 </p>
 
 ---
