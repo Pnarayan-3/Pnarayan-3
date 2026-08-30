@@ -38,6 +38,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,javascript" />
+  <img src="https://skillicons.dev/icons?i=ruby" />
 </p>
 
 ---
@@ -46,6 +47,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=rails" />
 </p>
 
 <p>
