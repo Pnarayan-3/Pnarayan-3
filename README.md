@@ -189,40 +189,18 @@ Testing → Unit Testing → Automation → Quality
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pnarayan-3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="Pushkar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pnarayan-3&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pnarayan-3&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
-
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Pnarayan-3&theme=tokyonight&hide_border=true" width="495" alt="GitHub Contribution Streak" /> </p>
 ---
 
 ## 🚀 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pnarayan-3&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
-</p>
-
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pnarayan-3&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" /> </p>
 ---
 
-## 🤝 Let's Connect
+## 📈 GitHub Contributions
 
-<p align="center">
-  <a href="mailto:">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Pnarayan-3">
-    <img src="https://skillicons.dev/icons?i=github" width="40"/>
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/Pnarayan-3"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pnarayan-3&theme=github-compact&hide_border=true&area=true" width="100%" alt="Pushkar's GitHub Contributions" /> </a> </p>
+---
 
 <p align="center">
   <b>✨ Build. Automate. Learn. Improve. ✨</b>
