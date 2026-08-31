@@ -185,18 +185,17 @@ Observability → Prometheus → Grafana → Reliability
         ↓
 Testing → Unit Testing → Automation → Quality
 ```
-
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pnarayan-3&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pnarayan-3&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pnarayan-3&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="Pushkar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pnarayan-3&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pnarayan-3&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Pnarayan-3&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 ---
@@ -204,7 +203,7 @@ Testing → Unit Testing → Automation → Quality
 ## 🚀 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pnarayan-3&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pnarayan-3&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph" />
 </p>
 
 ---
@@ -212,11 +211,11 @@ Testing → Unit Testing → Automation → Quality
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:pushkarnarayan@example.com">
+  <a href="mailto:">
     <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pushkarnarayan/">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   &nbsp;&nbsp;
