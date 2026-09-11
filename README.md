@@ -197,6 +197,18 @@ Testing → Unit Testing → Automation → Quality
   />
 </p>
 
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Pnarayan-3&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📊 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Pnarayan-3&theme=tokyonight&hide_border=true" />
+</p>
+
 <p align="center">
   <b>✨ Build. Automate. Learn. Improve. ✨</b>
 </p>
