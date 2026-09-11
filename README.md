@@ -189,7 +189,8 @@ Testing → Unit Testing → Automation → Quality
 
 ## 📊 GitHub Insights
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Pnarayan-3&theme=tokyonight&hide_border=true" width="495" alt="GitHub Contribution Streak" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Pnarayan-3&theme=tokyonight&hide_border=true" width="495" alt="GitHub Contribution Streak" /> 
+</p>
 
 <p align="center">
   <b>✨ Build. Automate. Learn. Improve. ✨</b>
