@@ -85,11 +85,8 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" title="Prometheus" />
   <img src="https://www.svgrepo.com/show/448228/grafana.svg" width="48" title="Grafana" />
-  <img src="https://cdn.simpleicons.org/amazoncloudwatch/FF4F8B" width="48" title="AWS CloudWatch" />
   <img src="https://awsfundamentals.com/assets/aws-icons/Arch_Amazon-EventBridge_64.svg" width="48" title="Amazon EventBridge" />
 </p>
-
-**Monitoring:** Prometheus • Grafana • Metrics • Dashboards • Log Analysis • Incident Analysis • Root Cause Analysis
 
 ---
 
@@ -99,6 +96,7 @@
   <img src="https://img.shields.io/badge/Unit%20Testing-6DB33F?style=for-the-badge&logo=checkmarx&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpecFlow-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/Katalon-00AEEF?style=for-the-badge&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" width="48" title="Jira" />
 </p>
 
 **Testing:** Unit Testing • Functional Testing • Regression Testing • Test Automation • Test Coverage • Debugging • Code Reviews
