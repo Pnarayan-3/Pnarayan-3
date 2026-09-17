@@ -75,9 +75,9 @@
 ### ☁️ Cloud, DevOps & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,aws,docker,terraform,ansible,kubernetes,helm,git,github,gitlab,jenkins,githubactions" />
-  <img src="https://img.shields.io/badge/⚙️-Automation-2088FF?style=flat-square" height="48" title="Automation" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" height="48" title="Claude Code" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,docker,terraform,ansible,kubernetes,git,github,gitlab,jenkins,githubactions" />
+  <img src="https://img.shields.io/badge/⚙️-Automation-2088FF?style=flat-square" height="62" title="Automation" />
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" height="62" title="Claude Code" />
 </p>
 
 ---
