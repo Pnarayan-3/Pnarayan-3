@@ -111,7 +111,7 @@
 
 ## 🚀 Featured Projects
 
-### ☸️ Kubernetes Monitoring Demo
+### ☸️ Kubernetes Monitoring 
 
 **Minikube • Docker • Kubernetes • Prometheus • Grafana**
 
